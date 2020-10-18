@@ -1,3 +1,9 @@
-# Pymes-Neuronales
+# Modelo
 
-El siguiente proyecto es un modelo de redes renuronales que predice si un cliente aprueba o no con una exactitud del 80%
+Clustering:
+- Salida: 2 clusters diferenciados
+
+Redes neuronales:
+- Salida: Aprobado/desprobado credito para CADA cluster
+
+Segmentas clientes --> clasificas si te pagan o no

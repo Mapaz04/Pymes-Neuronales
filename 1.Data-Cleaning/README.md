@@ -1,3 +1,3 @@
-# Pymes-Neuronales
+# Cleaning
 
-El siguiente proyecto es un modelo de redes renuronales que predice si un cliente aprueba o no con una exactitud del 80%
+Cleaning datasets para trabajarel modelo

@@ -1,3 +1,3 @@
 # Cleaning
 
-Cleaning datasets para trabajarel modelo
+Cleaning datasets para trabajar el modelo.

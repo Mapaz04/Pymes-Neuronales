@@ -1,3 +1,3 @@
 # Web
 
-Pagina web para mostrar resultados
+Aplicaición web para mostrar resultados
